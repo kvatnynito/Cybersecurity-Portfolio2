@@ -26,7 +26,7 @@ My hands-on projects demonstrating **Microsoft Sentinel**, **detection engineeri
 ### **Repo 1 – Security Operations & Detection Engineering** - Job Role Matchs: SOC Analyst, Detection Engineer
 **Focus:** SIEM, Detection Rules, Incident Response  
 This project showcases hands-on SecOps skills using Microsoft Sentinel. It includes detection rules, incident investigations, log samples, and automation scripts used to identify and respond to suspicious activity in a simulated enterprise environment.  
-🔗 Repo: https://github.com/kvntynito/1-secops-detentions-sentinel
+🔗 Repo: https://github.com/kvntynito/1-secops-detections-sentinel
 
 ### **Repo 2 – Vulnerability Management** - Job Role Matches: Vulnerability Analyst, Security Engineer
 **Focus:** Nmap, OpenVAS/GVM, Risk Analysis  
