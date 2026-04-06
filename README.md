@@ -1,7 +1,7 @@
 ## Connect with Me
 
 - LinkedIn: [Kevin Nito](https://www.linkedin.com/in/kevin-nito)
-- GitHub: [github.com/kvntynito](https://github.com/kvatnynito)
+- GitHub: [github.com/kvatnynito](https://github.com/kvatnynito)
 
 # 🛡️ Security Engineering Portfolio
 
