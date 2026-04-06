@@ -79,27 +79,27 @@ To get the most out of this portfolio, follow the recommended path below:
 
 ### **1. Start with Repo 1 — Security Operations & Detection Engineering**
 Explore how detection rules, KQL analytics, Sentinel incidents, and Sysmon logs work together.  
-🔗 https://github.com/kvatnynito/1-secops-detentions-sentinel
+🔗 https://github.com/kvatnynito/P2-1-secops-detections-sentinel
 
 ### **2. Review Repo 2 — Vulnerability Management**
-See how vulnerabilities are discovered, analyzed, scored, and mapped to remediation strategies using Nmap and OpenVAS/GVM.
-🔗 https://github.com/kvatnynito/2-vuln-mgmt-openvas-lab
+See how vulnerabilities are discovered, analyzed, scored, and mapped to remediation strategies using Nmap and OpenVAS/GVM.  
+🔗 https://github.com/kvatnynito/P2-2-vuln-mgmt-openvas-lab
 
 ### **3. Move to Repo 3 — Endpoint Hardening**
-Check out Windows and Linux hardening baselines, validation evidence, and configuration changes that strengthen endpoints against common attacks.
-🔗 https://github.com/kvatnynito/3-endpoint-hardening-windows-linux
+Check out Windows and Linux hardening baselines, validation evidence, and configuration changes that strengthen endpoints against common attacks.  
+🔗 https://github.com/kvatnynito/P2-3-endpoint-hardening-windows-linux
 
 ### **4. Explore Repo 4 — Azure Cloud Security**
-Understand how Azure IAM, Sentinel, and cloud architecture reviews work in a real mini-lab environment built on the Azure free tier.
-🔗 https://github.com/kvatnynito/4-azure-security-mini-lab
+Understand how Azure IAM, Sentinel, and cloud architecture reviews work in a real mini-lab environment built on the Azure free tier.  
+🔗 https://github.com/kvatnynito/P2-4-azure-security-mini-lab
 
 ### **5. Review Repo 5 — GRC Policies & Risk**
-See formal governance documents, risk matrices, policies, and framework mapping aligned with NIST, ISO, and PCI.
-🔗 https://github.com/kvatnynito/5-grc-policies-and-risk
+See formal governance documents, risk matrices, policies, and framework mapping aligned with NIST, ISO, and PCI.  
+🔗 https://github.com/kvatnynito/P2-5-grc-policies-and-risk
 
 ### **6. Finish with Repo 6 — Cybersecurity Automation & Scripting**
-Explore Python, PowerShell, and Bash tools built to automate log analysis, evidence collection, and SecOps workflows.
-🔗 https://github.com/kvatnynito/6-sec-automation-py-ps-bash
+Explore Python, PowerShell, and Bash tools built to automate log analysis, evidence collection, and SecOps workflows.  
+🔗 https://github.com/kvatnynito/P2-6-sec-automation-py-ps-bash
 
 ---
 
