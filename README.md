@@ -26,32 +26,32 @@ My hands-on projects demonstrating **Microsoft Sentinel**, **detection engineeri
 ### **Repo 1 – Security Operations & Detection Engineering** - Job Role Matchs: SOC Analyst, Detection Engineer
 **Focus:** SIEM, Detection Rules, Incident Response  
 This project showcases hands-on SecOps skills using Microsoft Sentinel. It includes detection rules, incident investigations, log samples, and automation scripts used to identify and respond to suspicious activity in a simulated enterprise environment.  
-🔗 Repo: https://github.com/kvatnynito/1-secops-detections-sentinel
+🔗 Repo: [https://github.com/kvatnynito/1-secops-detections-sentinel](https://github.com/kvatnynito/P2-1-secops-detections-sentinel)
 
 ### **Repo 2 – Vulnerability Management** - Job Role Matches: Vulnerability Analyst, Security Engineer
 **Focus:** Nmap, OpenVAS/GVM, Risk Analysis  
 This project demonstrates hands-on vulnerability management using Nmap and OpenVAS/GVM. Includes scan outputs, analysis reports, risk matrices, and remediation planning based on real test environments.  
-🔗 Repo: https://github.com/kvatnynito/2-vuln-mgmt-openvas-lab
+🔗 Repo: [https://github.com/kvatnynito/2-vuln-mgmt-openvas-lab](https://github.com/kvatnynito/P2-2-vuln-mgmt-openvas-lab)
 
 ### **Repo 3 – Endpoint Hardening (Windows & Linux)** - Job Role Matches: Endpoint Security, SysAdmin Security
 **Focus:** System Hardening, Baselines, Validation  
 This project shows practical endpoint hardening for both Windows and Linux systems. Includes baselines, configuration changes, validation steps, and evidence showing how systems were strengthened against common attack vectors.  
-🔗 Repo: https://github.com/kvatnynito/3-endpoint-hardening-windows-linux
+🔗 Repo: [https://github.com/kvatnynito/3-endpoint-hardening-windows-linux](https://github.com/kvatnynito/P2-3-endpoint-hardening-windows-linux)
 
 ### **Repo 4 – Cloud Security (Azure)** - Job Role Matches: Cloud Security Analyst/Engineer
 **Focus:** Azure IAM, Security Reviews, Sentinel  
 This project demonstrates hands-on cloud security inside Microsoft Azure. It includes Azure security reviews, Sentinel analyses, IAM evaluations, architecture mapping, and evidence from a real mini-lab built on Azure free-tier resources.  
-🔗 Repo: https://github.com/kvatnynito/4-azure-security-mini-lab
+🔗 Repo: [https://github.com/kvatnynito/4-azure-security-mini-lab](https://github.com/kvatnynito/P2-4-azure-security-mini-lab)
 
 ### **Repo 5 – Governance, Risk & Compliance (GRC)** - Job Role Matches: GRC Analyst, Compliance, Security Governance
 **Focus:** NIST, ISO, PCI, Risk Management  
 This project demonstrates core GRC skills including security policies, risk matrices, governance documentation, and mapping to frameworks such as NIST CSF, NIST 800-53, ISO27001, and PCI-DSS.  
-🔗 Repo: https://github.com/kvatnynito/5-grc-policies-and-risk
+🔗 Repo: [https://github.com/kvatnynito/5-grc-policies-and-risk](https://github.com/kvatnynito/P2-5-grc-policies-and-risk)
 
 ### **Repo 6 – Cybersecurity Automation & Scripting** - Job Role Matches: SecOps Automation, SOAR, IR Automation
 **Focus:** PowerShell, Python, Bash, Automation Tools  
 This project showcases cybersecurity automation across multiple scripting languages. It includes tools for log parsing, alert generation, evidence collection, and security task automation used in real SecOps, SOC, and IR workflows.  
-🔗 Repo: https://github.com/kvatnynito/6-sec-automation-py-ps-bash
+🔗 Repo: [https://github.com/kvatnynito/6-sec-automation-py-ps-bash](https://github.com/kvatnynito/P2-6-sec-automation-py-ps-bash)
 
 
 ---
