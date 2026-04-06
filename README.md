@@ -2,7 +2,7 @@
 
 This portfolio is a planned 6-repo project set focused on building hands-on skills across detection engineering, vulnerability management, endpoint hardening, Azure security, GRC, and automation.
 
-It is designed as the next portfolio phase after completion of Portfolio 1, which focuses on lab infrastructure, telemetry, and investigation workflows.
+It is designed as the next portfolio phase after completion of Portfolio 1, which focuses on lab infrastructure, telemetry pipelines, and investigation workflows.
 
 ---
 
