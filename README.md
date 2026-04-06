@@ -35,25 +35,43 @@ The purpose of this portfolio is to expand beyond homelab infrastructure and log
 **Planned focus:** Microsoft Sentinel, KQL, incident triage, threat hunting  
 **Goal:** Build practical SecOps workflows using alerting, detections, incident handling, and investigation notes.
 
+[https://github.com/kvatnynito/P2-1-secops-detections-sentinel
+](https://github.com/kvatnynito/P2-1-secops-detections-sentinel)
+
 ### Repo 2 — Vulnerability Management
 **Planned focus:** Nmap, OpenVAS/GVM, reporting, prioritization  
 **Goal:** Practice vulnerability discovery, analysis, risk ranking, and remediation planning.
+
+[https://github.com/kvatnynito/P2-2-vuln-mgmt-openvas-lab
+](https://github.com/kvatnynito/P2-2-vuln-mgmt-openvas-lab)
 
 ### Repo 3 — Endpoint Hardening (Windows & Linux)
 **Planned focus:** baseline configuration, validation, hardening evidence  
 **Goal:** Document practical hardening steps for Windows and Linux systems and show before/after improvements.
 
+[https://github.com/kvatnynito/P2-3-endpoint-hardening-windows-linux
+](https://github.com/kvatnynito/P2-3-endpoint-hardening-windows-linux)
+
 ### Repo 4 — Cloud Security (Azure)
 **Planned focus:** Azure IAM, Sentinel, Defender for Cloud, architecture review  
 **Goal:** Build hands-on familiarity with cloud security concepts and Azure-native security tooling.
+
+[https://github.com/kvatnynito/P2-4-azure-security-mini-lab
+](https://github.com/kvatnynito/P2-4-azure-security-mini-lab)
 
 ### Repo 5 — Governance, Risk & Compliance (GRC)
 **Planned focus:** policies, standards, risk matrices, framework mapping  
 **Goal:** Build documentation-driven security skills aligned to frameworks such as NIST, ISO, and PCI.
 
+[https://github.com/kvatnynito/P2-5-grc-policies-and-risk
+](https://github.com/kvatnynito/P2-5-grc-policies-and-risk)
+
 ### Repo 6 — Cybersecurity Automation & Scripting
 **Planned focus:** PowerShell, Python, Bash, repeatable security tasks  
 **Goal:** Create small tools and scripts that automate security analysis, evidence collection, and operational workflows.
+
+[https://github.com/kvatnynito/P2-6-sec-automation-py-ps-bash
+](https://github.com/kvatnynito/P2-6-sec-automation-py-ps-bash)
 
 ---
 
