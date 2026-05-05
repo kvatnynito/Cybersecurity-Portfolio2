@@ -80,7 +80,7 @@ Planned focus:
 
 Purpose:
 
-This project establishes the secure AWS account foundation before deploying cloud infrastructure.
+Secure the AWS account foundation before deploying cloud infrastructure.
 
 ---
 
@@ -101,7 +101,7 @@ Planned focus:
 
 Purpose:
 
-This project translates local network segmentation concepts from Portfolio 1 into AWS cloud networking.
+This project translates local network segmentation concepts from Portfolio 1 into AWS cloud networking - Build the AWS network.
 
 ---
 
@@ -122,7 +122,7 @@ Planned focus:
 
 Purpose:
 
-This project develops AWS-native visibility and detection workflows for cloud security monitoring.
+This project develops AWS-native visibility and detection workflows for cloud security monitoring - Turn on logging/monitoring.
 
 ---
 
@@ -143,7 +143,7 @@ Planned focus:
 
 Purpose:
 
-This project focuses on securing cloud object storage and reducing data exposure risk.
+This project focuses on securing cloud object storage and reducing data exposure risk - Secure S3 storage.
 
 ---
 
@@ -164,7 +164,7 @@ Planned focus:
 
 Purpose:
 
-This project applies endpoint hardening and vulnerability management concepts to AWS-hosted workloads.
+This project applies endpoint hardening and vulnerability management concepts to AWS-hosted workloads - Harden EC2 workloads.
 
 ---
 
@@ -185,7 +185,7 @@ Planned focus:
 
 Purpose:
 
-This project introduces automation and repeatable cloud infrastructure workflows.
+This project introduces automation and repeatable cloud infrastructure workflows - Automate everything.
 
 ---
 
